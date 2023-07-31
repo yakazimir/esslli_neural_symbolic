@@ -10,8 +10,9 @@ Abstract: This is intended to be an advanced course on current methods for combi
 ### Technical Foundations: Logic and Deep Learning
 
 - **Day 1** Course introduction and logical foundations. *topics*: propositional logic, SAT, tractable representations and knowledge compilation.
-
+[slides](https://github.com/yakazimir/esslli_neural_symbolic/blob/main/slides/lecture1.pdf)
 - **Day 2** Introduction to language modeling and transformers. *topics*: classical vs. modern LMs, contextual models and attention, model tuning.
+[slides](https://github.com/yakazimir/esslli_neural_symbolic/blob/main/slides/lecture2.pdf)
 
 ### Synthesis 
 
