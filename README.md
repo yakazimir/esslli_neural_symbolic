@@ -28,5 +28,5 @@ Schedule
 Helpful Resources 
 ==========
 
-Many examples thoughout the course taken from the work of the [UCLA Automated Reasoning Group](https://www.youtube.com/@UCLA.Reasoning) (*See link for many relevant lectures*). For a general survey of neural-symbolic methods, see [Marra et al. 2020](https://arxiv.org/abs/2108.11451).
+Many examples thoughout the course taken from the work of the [UCLA Automated Reasoning Group](https://www.youtube.com/@UCLA.Reasoning) (*See link for many relevant lectures*). For a general survey of *neural-symbolic* methods, see [Marra et al. 2020](https://arxiv.org/abs/2108.11451), for *statistical relational learning* see [de Raedt, Luc et al.](https://link.springer.com/book/10.1007/978-3-031-01574-8).
 
