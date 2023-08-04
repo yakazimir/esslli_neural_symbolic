@@ -18,6 +18,6 @@ Abstract: This is intended to be an advanced course on current methods for combi
 
 - **Day 3** Training models with symbolic logic via the semantic loss function. *topics*: logic as loss, weighted model counting (WMC), circuits [slides](https://github.com/yakazimir/esslli_neural_symbolic/blob/main/slides/lecture3.pdf)
 
-- **Day 4**  Symbolic methods for reasoning over model predictions. *topics*: SAT methods and their semantics, different types of inference, circuits
+- **Day 4**  Symbolic methods for reasoning over model predictions. *topics*: SAT methods and their semantics, different types of inference, circuits [slides](https://github.com/yakazimir/esslli_neural_symbolic/blob/main/slides/lecture4.pdf)
 
 - **Day 5** Training models using multi-valued Logic *topics*: systems of fuzzy-logic, technical issues, applications to NLP.
