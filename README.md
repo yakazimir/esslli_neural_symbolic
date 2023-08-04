@@ -13,16 +13,20 @@ Schedule
   
 - **Day 2** Introduction to language modeling and transformers. *topics*: classical vs. modern LMs, [contextual models and attention](https://peterbloem.nl/blog/transformers), model tuning. [[slides]](https://github.com/yakazimir/esslli_neural_symbolic/blob/main/slides/lecture2.pdf)
 
-### Synthesis 
+### Logic for Model Training
 
 - **Day 3** Training models with symbolic logic via the [semantic loss function](https://proceedings.mlr.press/v80/xu18h.html). *topics*: logic as loss, weighted model counting (WMC), circuits [[slides]](https://github.com/yakazimir/esslli_neural_symbolic/blob/main/slides/lecture3.pdf)
 
+### Logic for Model Correction
+
 - **Day 4**  Symbolic methods for reasoning over model predictions. *topics*: SAT methods and their semantics, different types of inference, circuits [[slides]](https://github.com/yakazimir/esslli_neural_symbolic/blob/main/slides/lecture4.pdf)
+
+### Fuzzy logic and applications
 
 - **Day 5** Training models using multi-valued Logic *topics*: systems of fuzzy-logic, technical issues, applications to NLP.
 
 Helpful Resources 
 ==========
 
-Many examples thoughout the course taken from the work of the [UCLA Automated Reasoning Group](https://www.youtube.com/@UCLA.Reasoning) (*See link for many relevant lectures*). For a general survey of neural-symbolic methods, see [Marra et al. 2020](https://arxiv.org/abs/2108.11451)
+Many examples thoughout the course taken from the work of the [UCLA Automated Reasoning Group](https://www.youtube.com/@UCLA.Reasoning) (*See link for many relevant lectures*). For a general survey of neural-symbolic methods, see [Marra et al. 2020](https://arxiv.org/abs/2108.11451).
 
