@@ -10,6 +10,7 @@ Schedule
 ### Technical Foundations: Logic and Transformers
 
 - **Day 1** Course introduction and logical foundations. *topics*: propositional logic, SAT, [tractable representations and knowledge compilation](https://arxiv.org/abs/2202.02942). [[slides]](https://github.com/yakazimir/esslli_neural_symbolic/blob/main/slides/lecture1.pdf)
+  ⋅⋅* **background reading**:  
   
 - **Day 2** Introduction to language modeling and transformers. *topics*: classical vs. modern LMs, [contextual models and attention](https://peterbloem.nl/blog/transformers), model tuning. [[slides]](https://github.com/yakazimir/esslli_neural_symbolic/blob/main/slides/lecture2.pdf)
 
@@ -28,5 +29,5 @@ Schedule
 Helpful Resources 
 ==========
 
-Many examples thoughout the course taken from the work of the [UCLA Automated Reasoning Group](https://www.youtube.com/@UCLA.Reasoning) (*See link for many relevant lectures*). For a general survey of *neural-symbolic* methods, see [Marra et al. 2020](https://arxiv.org/abs/2108.11451), for *statistical relational learning* see [de Raedt, Luc et al.](https://link.springer.com/book/10.1007/978-3-031-01574-8).
+Many examples thoughout the course taken from the work of the [UCLA Automated Reasoning Group](https://www.youtube.com/@UCLA.Reasoning) (*See link for many relevant lectures*). For a general survey of *neural-symbolic* methods, see [Marra et al. 2020](https://arxiv.org/abs/2108.11451), for *statistical relational learning* see [De Raedt, L et al. 2016](https://link.springer.com/book/10.1007/978-3-031-01574-8).
 
