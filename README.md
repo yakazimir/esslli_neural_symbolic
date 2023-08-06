@@ -12,7 +12,7 @@ Schedule
 *Please see inside of the slides for more references, links and other pointers* 
 
 - **Day 1** Course introduction and logical foundations. *topics*: propositional logic, SAT, tractable representations and knowledge compilation. [[slides]](https://github.com/yakazimir/esslli_neural_symbolic/blob/main/slides/lecture1.pdf)
-> **Backgruond Reading** [[Darwiche, A., Marquis, P. 2002]](https://www.jair.org/index.php/jair/article/view/10311) [[Darwiche, A. 2022]](https://arxiv.org/abs/2202.02942)
+> **Background Reading** *knowledge compilation* [[Darwiche, A., Marquis, P. 2002]](https://www.jair.org/index.php/jair/article/view/10311) [[Darwiche, A. 2022]](https://arxiv.org/abs/2202.02942)
 
 - **Day 2** Introduction to language modeling and transformers. *topics*: classical vs. modern LMs, [contextual models and attention](https://peterbloem.nl/blog/transformers), model tuning. [[slides]](https://github.com/yakazimir/esslli_neural_symbolic/blob/main/slides/lecture2.pdf)
 
