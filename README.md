@@ -12,7 +12,7 @@ Schedule
 *Please see inside of the slides for more references, links and other pointers* 
 
 - **Day 1** Course introduction and logical foundations. *topics*: propositional logic, SAT, tractable representations and knowledge compilation. [[slides]](https://github.com/yakazimir/esslli_neural_symbolic/blob/main/slides/lecture1.pdf)
-> **Background Reading** *knowledge compilation/circuits* [[Darwiche and Marquis 2002]](https://www.jair.org/index.php/jair/article/view/10311) [[Darwiche, 2022]](https://arxiv.org/abs/2202.02942) *general logic and SAT* [[Davis, Segal and Weyuker 1994, ch12]](https://www.lsm.cic.ipn.mx/wp-content/uploads/2019/11/Computability-Complexity-and-Languages-Fundamentals-of-Theoretical-Computer-Science.pdf) 
+> **Background Reading** *knowledge compilation/circuits* [[Darwiche and Marquis 2002]](https://www.jair.org/index.php/jair/article/view/10311) [[Darwiche, 2022]](https://arxiv.org/abs/2202.02942) *general logic and SAT* [[Davis, Segal and Weyuker 1994, ch12]](https://www.lsm.cic.ipn.mx/wp-content/uploads/2019/11/Computability-Complexity-and-Languages-Fundamentals-of-Theoretical-Computer-Science.pdf), [[Kroening and Strichman 2016]](https://www.dcc.fc.up.pt/~nam/resources/VP22/Kroening-and-Strichman---2016---Decision-Procedures.pdf)  
 
 - **Day 2** Introduction to language modeling and transformers. *topics*: classical vs. modern LMs, [contextual models and attention](https://peterbloem.nl/blog/transformers), model tuning. [[slides]](https://github.com/yakazimir/esslli_neural_symbolic/blob/main/slides/lecture2.pdf)
 
