@@ -30,7 +30,7 @@ Schedule
 ### Logical relaxations and applications in NLP
 
 - **Day 5** Training models using multi-valued Logic *topics*: systems of fuzzy-logic, technical issues, applications to NLP. (**Vivek**)
-> **Key Reading** *logical relaxations for NLP* [[Li, Tao et al. 2019]](https://arxiv.org/abs/1906.06298), [[Li, Tao, et al 2019]](https://arxiv.org/abs/1909.00126), [[Grespan, Mattia et al. 2021]](https://arxiv.org/abs/2107.13646), [[Rocktaschel, Tim et al. 2015]](https://aclanthology.org/N15-1118.pdf), [[Grespan, Mattia et al. 2023]](https://aclanthology.org/2023.acl-long.654/), *fuzzy logic for ML* [[Emilie van Krien et al 2022]](https://www.sciencedirect.com/science/article/pii/S0004370221001533)
+> **Key Reading** *logical relaxations for NLP* [[Li, Tao et al. 2019]](https://arxiv.org/abs/1906.06298), [[Li, Tao, et al 2019]](https://arxiv.org/abs/1909.00126), [[Grespan, Mattia et al. 2021]](https://arxiv.org/abs/2107.13646), [[Rocktaschel, Tim et al. 2015]](https://aclanthology.org/N15-1118.pdf), [[Grespan, Mattia et al. 2023]](https://aclanthology.org/2023.acl-long.654/), *technical aspects of uzzy logic* [[Emilie van Krien et al 2022]](https://www.sciencedirect.com/science/article/pii/S0004370221001533), [[Klement, Erich et al]](https://books.google.com/books?hl=en&lr=&id=HXzvCAAAQBAJ&oi=fnd&pg=PR12&ots=u1qygyT5DP&sig=gpARvUpZdJwyO7tMIVH-Aga5EPY#v=onepage&q&f=false)
 
 Helpful Resources 
 ==========
