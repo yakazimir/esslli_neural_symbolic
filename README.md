@@ -27,7 +27,7 @@ Schedule
 - **Day 4**  Symbolic methods for reasoning over model predictions. *topics*: SAT methods and their semantics, different types of inference, circuits, NLP applications [[slides]](https://github.com/yakazimir/esslli_neural_symbolic/blob/main/slides/lecture4.pdf) (**Kyle**)
 > **Key Reading** *MPE and MAXSAT* [[Park, James 2002]](https://cdn.aaai.org/AAAI/2002/AAAI02-102.pdf), [[Sang, Tian et al. 2007]](https://henrykautz.com/papers/ijcai07-mpe-maxsat.pdf), *related NLP work* [[Kassner, Nora et al. 2021]](https://arxiv.org/abs/2109.14723), [[Kassner, Nora etal 2023]](https://arxiv.org/abs/2305.14250),[[Mitchell, Eric et al. 2022]](https://arxiv.org/abs/2211.11875), [[Gu, Yuling et al. 2023]](https://arxiv.org/abs/2212.10029), [[Jung, Jaehun et al. 2022]](https://arxiv.org/abs/2205.11822), *statistical relational learning background* [[De Raedt, Luc et al. 2016]](https://link.springer.com/book/10.1007/978-3-031-01574-8), [[De Raedt and Kimmig 2015]](https://link.springer.com/article/10.1007/s10994-015-5494-z)
 
-### Fuzzy logic and applications
+### Logic relaxations and applications in NLP
 
 - **Day 5** Training models using multi-valued Logic *topics*: systems of fuzzy-logic, technical issues, applications to NLP. (**Vivek**)
 > **Key Reading** *logical relaxations for NLP* [[Li, Tao et al. 2019]](https://arxiv.org/abs/1906.06298), [[Li, Tao, et al 2019]](https://arxiv.org/abs/1909.00126), [[Grespan, Mattia et al. 2021]](https://arxiv.org/abs/2107.13646), [[Rocktaschel, Tim et al. 2015]](https://aclanthology.org/N15-1118.pdf), [[Grespan, Mattia et al. 2023]](https://aclanthology.org/2023.acl-long.654/), *fuzzy logic for ML* [[Emilie van Krien et al 2022]](https://www.sciencedirect.com/science/article/pii/S0004370221001533)
