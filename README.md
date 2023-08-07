@@ -22,7 +22,7 @@ Schedule
 ### Logic for Model Training
 
 - **Day 3** Training models with symbolic logic via the [semantic loss function](https://proceedings.mlr.press/v80/xu18h.html). *topics*: logic as loss, weighted model counting (WMC), circuits [[slides]](https://github.com/yakazimir/esslli_neural_symbolic/blob/main/slides/lecture3.pdf) (**Kyle**)
-> **Key Reading** *senatic loss* [[Xu, Jingyi et al. 2018]](https://proceedings.mlr.press/v80/xu18h.html), [[Ahmed, Kareem et al. 2022]](https://arxiv.org/abs/2201.11250) *probabilistic inference and WMC* [[Chiva, Mark et al. 2008]](https://www.sciencedirect.com/science/article/pii/S0004370207001889), *learning with constraints in NLP* [[Minervini, Pasquale et al 2018]](https://arxiv.org/abs/1808.08609), [[Li, Tao, et al 2019]](https://arxiv.org/abs/1909.00126),[[Asai, Akari et al. 2020]](https://arxiv.org/abs/2004.10157) *SDDs* [[Darwiche, Adnan 2011]](https://ai.dmi.unibas.ch/research/reading_group/darwiche-ijcai2011.pdf) 
+> **Key Reading** *senatic loss* [[Xu, Jingyi et al. 2018]](https://proceedings.mlr.press/v80/xu18h.html), [[Ahmed, Kareem et al. 2022]](https://arxiv.org/abs/2201.11250) *probabilistic inference and WMC* [[Chiva, Mark et al. 2008]](https://www.sciencedirect.com/science/article/pii/S0004370207001889), *learning with constraints in NLP* [[Minervini, Pasquale et al 2018]](https://arxiv.org/abs/1808.08609), [[Li, Tao, et al 2019]](https://arxiv.org/abs/1909.00126) *SDDs* [[Darwiche, Adnan 2011]](https://ai.dmi.unibas.ch/research/reading_group/darwiche-ijcai2011.pdf) 
 
 ### Logic and Probabilistic Reasoning for Model Correction
 
@@ -32,7 +32,7 @@ Schedule
 ### Logical relaxations and applications in NLP
 
 - **Day 5** Training models using multi-valued Logic *topics*: systems of fuzzy-logic, technical issues, applications to NLP. (**Vivek**)
-> **Key Reading** *logical relaxations for NLP* [[Li, Tao et al. 2019]](https://arxiv.org/abs/1906.06298), [[Li, Tao, et al 2019]](https://arxiv.org/abs/1909.00126), [[Grespan, Mattia et al. 2021]](https://arxiv.org/abs/2107.13646), [[Rocktaschel, Tim et al. 2015]](https://aclanthology.org/N15-1118.pdf), [[Grespan, Mattia et al. 2023]](https://aclanthology.org/2023.acl-long.654/), *technical aspects of fuzzy logic* [[Emilie van Krien et al 2022]](https://www.sciencedirect.com/science/article/pii/S0004370221001533), [[Klement, Erich et al 2000]](https://www.goodreads.com/book/show/19993391-triangular-norms)
+> **Key Reading** *logical relaxations for NLP* [[Li, Tao et al. 2019]](https://arxiv.org/abs/1906.06298), [[Li, Tao, et al 2019]](https://arxiv.org/abs/1909.00126), [[Grespan, Mattia et al. 2021]](https://arxiv.org/abs/2107.13646), [[Rocktaschel, Tim et al. 2015]](https://aclanthology.org/N15-1118.pdf), [[Grespan, Mattia et al. 2023]](https://aclanthology.org/2023.acl-long.654/),[[Asai, Akari et al. 2020]](https://arxiv.org/abs/2004.10157) *technical aspects of fuzzy logic* [[Emilie van Krien et al 2022]](https://www.sciencedirect.com/science/article/pii/S0004370221001533), [[Klement, Erich et al 2000]](https://www.goodreads.com/book/show/19993391-triangular-norms)
 
 Helpful Resources 
 ==========
