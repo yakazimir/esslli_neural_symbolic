@@ -1,6 +1,6 @@
 Overview
 ==========
-This site contains the course materials for  the [**ESSLLI 2023**](https://2023.esslli.eu/courses-workshops-accepted/course-information.html#1) course of **Formal techniques for neural-symbolic Modeling**. 
+This site contains the course materials for  the [**ESSLLI 2023**](https://2023.esslli.eu/courses-workshops-accepted/course-information.html#1) course of **Formal techniques for neural-symbolic modeling**. 
 
 **course description**: This is intended to be an advanced course on current methods for combining symbolic logic and neural networks, with applications to problems in natural language processing (NLP) and language modeling. In particular, we focus on techniques that use symbolic knowledge and declarative constraints to train machine learning models by compiling the corresponding symbolic logic into a differentiable form, also known as the [logic as a loss](https://arxiv.org/abs/2108.11451) function family of approaches. Details of current approach in NLP (in particular, the basics of how pre-trained transformers work), as well as the formal and algorithmic techniques needed to doing this (e.g., SAT-based methods, tractable representations of logic), will be covered in detail and drawn from the broader literature of neural-symbolic learning and reasoning.
 
