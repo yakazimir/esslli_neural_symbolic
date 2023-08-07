@@ -20,7 +20,7 @@ Schedule
 ### Logic for Model Training
 
 - **Day 3** Training models with symbolic logic via the [semantic loss function](https://proceedings.mlr.press/v80/xu18h.html). *topics*: logic as loss, weighted model counting (WMC), circuits [[slides]](https://github.com/yakazimir/esslli_neural_symbolic/blob/main/slides/lecture3.pdf)
-> **Key Reading** [[Xu, Jingyi et al. 2018]](https://proceedings.mlr.press/v80/xu18h.html), [[Chiva, Mark et al. 2008]](https://www.sciencedirect.com/science/article/pii/S0004370207001889), [[Ahmed, Kareem et al. 2022]](https://arxiv.org/abs/2201.11250), [[Minervini, Pasquale et al 2018]](https://arxiv.org/abs/1808.08609), [[Li, Tao, et al 2019]](https://arxiv.org/abs/1909.00126), [[Darwiche, Adnan 2011]](https://ai.dmi.unibas.ch/research/reading_group/darwiche-ijcai2011.pdf)
+> **Key Reading** [[Xu, Jingyi et al. 2018]](https://proceedings.mlr.press/v80/xu18h.html), [[Chiva, Mark et al. 2008]](https://www.sciencedirect.com/science/article/pii/S0004370207001889), [[Ahmed, Kareem et al. 2022]](https://arxiv.org/abs/2201.11250), [[Minervini, Pasquale et al 2018]](https://arxiv.org/abs/1808.08609), [[Li, Tao, et al 2019]](https://arxiv.org/abs/1909.00126), [[Darwiche, Adnan 2011]](https://ai.dmi.unibas.ch/research/reading_group/darwiche-ijcai2011.pdf), [[Asai, Akari et al. 2020]](https://arxiv.org/abs/2004.10157)
 
 ### Logic and Probabilistic Reasoning for Model Correction
 
@@ -35,10 +35,10 @@ Schedule
 Helpful Resources 
 ==========
 
-Many examples thoughout the course taken from the work of the [UCLA Automated Reasoning Group](https://www.youtube.com/@UCLA.Reasoning) (*See link for many relevant lectures*). For a general survey of *neural-symbolic* methods, see [[Marra et al. 2020]](https://arxiv.org/abs/2108.11451), for *statistical relational learning* see [[De Raedt, L et al. 2016]](https://link.springer.com/book/10.1007/978-3-031-01574-8).
+Many examples thoughout the course taken from the work of the [UCLA Automated Reasoning Group](https://www.youtube.com/@UCLA.Reasoning) (*See link for many relevant lectures*). For a general survey of *neural-symbolic* methods, see [[Marra et al. 2020]](https://arxiv.org/abs/2108.11451), for *statistical relational learning* see [[De Raedt, L et al. 2016]](https://link.springer.com/book/10.1007/978-3-031-01574-8), for *logic and AI* see [[Darwiche, Ardnan 2020]](https://dl.acm.org/doi/abs/10.1145/3375395.3389131)
 
 Below are some pointers to code resources: 
 - **solvers** [[Z3 solver]](https://github.com/Z3Prover/z3), [[python-sat]](https://pysathq.github.io/), [[problog]](https://github.com/ML-KULeuven/problog)
-- **NLP and general ML** [[transformers]](https://github.com/huggingface/transformers), [[PyTorch]](https://pytorch.org/), [[pylon-lib]](https://github.com/pylon-lib/pylon)
+- **NLP and general ML** [[transformers]](https://github.com/huggingface/transformers), [[PyTorch]](https://pytorch.org/), [[pylon-lib]](https://github.com/pylon-lib/pylon),[[Datasets]](https://huggingface.co/docs/datasets/index)
 - **knowledge compilation** [[pysdd]](https://github.com/wannesm/PySDD) 
 - **other useful utilities** [[sympy]](https://www.sympy.org/en/index.html)
