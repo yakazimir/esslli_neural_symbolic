@@ -22,7 +22,7 @@ Schedule
 ### Logic for Model Training
 
 - **Day 3** Training models with symbolic logic via the [semantic loss function](https://proceedings.mlr.press/v80/xu18h.html). *topics*: logic as loss, weighted model counting (WMC), circuits [[slides]](https://github.com/yakazimir/esslli_neural_symbolic/blob/main/slides/lecture3.pdf) (**Kyle**)
-> **Key Reading** *semantic loss* [[Xu, Jingyi et al. 2018]](https://proceedings.mlr.press/v80/xu18h.html), [[Ahmed, Kareem et al. 2022]](https://arxiv.org/abs/2201.11250) *probabilistic inference and WMC* [[Chiva, Mark et al. 2008]](https://www.sciencedirect.com/science/article/pii/S0004370207001889), *learning with constraints in NLP* [[Minervini, Pasquale et al 2018]](https://arxiv.org/abs/1808.08609), [[Li, Tao, et al 2019]](https://arxiv.org/abs/1909.00126) *SDDs* [[Darwiche, Adnan 2011]](https://ai.dmi.unibas.ch/research/reading_group/darwiche-ijcai2011.pdf) 
+> **Key Reading** *semantic loss* [[Xu, Jingyi et al. 2018]](https://proceedings.mlr.press/v80/xu18h.html), [[Ahmed, Kareem et al. 2022]](https://arxiv.org/abs/2201.11250) *probabilistic inference and WMC* [[Chiva, Mark et al. 2008]](https://www.sciencedirect.com/science/article/pii/S0004370207001889), *learning with constraints in NLP* [[Minervini, Pasquale et al 2018]](https://arxiv.org/abs/1808.08609), [[Li, Tao, et al 2019]](https://arxiv.org/abs/1909.00126) *SDDs* [[Darwiche, Adnan 2011]](https://ai.dmi.unibas.ch/research/reading_group/darwiche-ijcai2011.pdf) *other reading* [[Ahmed, Kareem et al 2022]](https://arxiv.org/abs/2206.00426)
 
 ### Logical and Probabilistic Reasoning for Model Correction
 
